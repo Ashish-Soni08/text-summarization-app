@@ -28,7 +28,6 @@ Try the app: [text-summarization](https://huggingface.co/spaces/ashish-soni08/Te
 
 ```bash
 Python 3.8+
-pip
 ```
 
 ### Installation
