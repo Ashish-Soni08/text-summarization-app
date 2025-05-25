@@ -88,10 +88,6 @@ text-summarization-app/
 ├── README.md             # Project documentation
 ```
 
-## 📄 License
-
-This project is licensed under the AFL-3.0 License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - [Hugging Face](https://huggingface.co/) for the Transformers library and model hosting
